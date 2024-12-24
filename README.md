@@ -42,6 +42,14 @@ OSM Explorer offers several advantages over direct OpenStreetMap usage or raw Ov
 - **🎨 Modern Interface**: Clean, intuitive UI that makes exploration enjoyable
 - **🔍 Area-Based Search**: Easy to search within specific administrative boundaries
 - **⚙️ Optimized Queries**: Efficiently structured queries to reduce server load and improve response times
+## 📸 Showcase
+
+<div align="center">
+
+### 🌟 Modern Interface
+<img src="screenshots/osm.png" alt="Main Interface" width="800"/>
+
+</div>
 
 ## 🛠️ Technology Stack
 - **Backend**: Node.js, Express
